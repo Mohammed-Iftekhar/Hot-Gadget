@@ -181,6 +181,7 @@ height: auto;
     font-family: poppins;
     font-size: 35px medium;
     margin-bottom: 50px;
+    text-decoration-line;
 }
 footer{
     text-align: center;
@@ -188,4 +189,17 @@ footer{
 }
 .catagories{
     margin-bottom: 30px;
+}
+a{
+    text-decoration: none;
+}
+.cat-t{
+    font-family: poppins;
+    color: black;
+
+
+}
+.cat-a{
+    color: black;
+    font-weight: bold;
 }
